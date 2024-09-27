@@ -1,1 +1,1 @@
-# 2PWEB1-Escocia
+Este repositório contém a entrega do trabalho acadêmico da disciplina Web 1, do 2º período, sob a orientação do professor Érico Borgonove. O projeto consiste na criação de um site com um tema de algum país e disertaR sobre seus pontos turisiticos. Projeto feito em dupla com Felipe Santos da Cunha (github:FELIPESANTOS205)
